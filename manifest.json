@@ -1,0 +1,17 @@
+{
+  "name": "Thai Kedmanee X Keyboard layout",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "Thai Kedmanee X Keyboard layout",
+  "permissions": ["input"],
+  "input_components": [
+    {
+      "name": "Thai Kedmanee XBK",
+      "type": "ime",
+      "id": "th_kedmanee_xkb",
+      "description": "Thai Kedmanee X Keyboard layout",
+      "language": ["th"],
+      "layouts": ["th(basic)"]
+    }
+  ]
+}
